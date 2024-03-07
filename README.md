@@ -38,4 +38,4 @@ Special thanks to those who have generously shared their expertise and resources
 
 ## License
 
-This project is open-source and distributed under the [MIT License](https://github.com/HardwareGeiler/postinstall/blob/main/License.txt).
+This project is open-source and distributed under the [MIT License](https://github.com/HardwareGeiler/postinstall/blob/main/LICENSE).
