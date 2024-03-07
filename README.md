@@ -14,9 +14,9 @@ Welcome to the Windows Optimization Toolkit – a collection of essential files 
 
 ## Usage
 
-1. **Download:** Clone or download the Release to your PC. Place it in the C: drive of the fresh or already installed Windows. Extract the folder.
+1. **Download:** Download the release to your PC, place it in the C: drive of the freshly installed or already installed Windows, and then extract the folder.
 
-2. **Installation:** After installing Windows, Follow the provided instructions for each file to tweak settings and apply optimizations.
+2. **Usage:** Follow the provided instructions for each file to tweak settings and apply optimizations.
 
 3. **Resourceful Utilities:** Explore the folders to access open-source tools that can further enhance your Windows experience.
 
@@ -25,6 +25,8 @@ Welcome to the Windows Optimization Toolkit – a collection of essential files 
 ## Important Note
 
 - Always exercise caution and ensure the safety of downloaded files by using reputable sources.
+- Deactivates Windows Defender
+- Works for **Win10** and **Win11**
 
 ## Contribution
 
