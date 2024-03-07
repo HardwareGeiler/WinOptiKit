@@ -30,6 +30,12 @@ Welcome to the Windows Optimization Toolkit – a collection of essential files 
 
 Contributions are welcome! If you have additional tweaks, improvements, or new utilities to add, feel free to create a pull request.
 
+## Acknowledgments
+
+I want to express sincere appreciation to the creators and contributors whose efforts have been instrumental in the development of the tools, utilities, and optimizations featured in this project. Although specific names are not enumerated here for conciseness, the success of this toolkit is fundamentally rooted in the collaborative endeavors of the broader open-source community.
+
+Special thanks to those who have generously shared their expertise and resources, thereby enriching this project and offering users valuable enhancements for their Windows experience.
+
 ## License
 
 This project is open-source and distributed under the [MIT License](LICENSE).
