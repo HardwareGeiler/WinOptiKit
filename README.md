@@ -16,7 +16,7 @@ Welcome to the Windows Optimization Toolkit – a collection of essential files 
 
 1. **Information:** Read [UpdateHistory](https://github.com/HardwareGeiler/Windows-Optimization-Toolkit/blob/main/UpdateHistory.md) for a detailed Changelog.
 
-2. **Download:** Download the release to your PC, place it in the C: drive of the freshly installed or already installed Windows, and then extract the folder.
+2. **Download:** Download the newest [Release](https://github.com/HardwareGeiler/Windows-Optimization-Toolkit/releases/latest/download/Post11new.zip) to your PC, place it in the C: drive of the freshly installed or already installed Windows, and then extract the folder.
 
 3. **Usage:** Follow the provided instructions for each file to tweak settings and apply optimizations.
 
