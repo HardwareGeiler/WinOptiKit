@@ -7,7 +7,7 @@
 - Powerplan locked due to infunctionality
 
 **V1.2:**
-- Added Runtimes (Credit: [Syrusaki](https://github.com/Syrusaki for NET)
-- Fixed Powerplan (Credit: [Ancel](https://github.com/ancel1x)
+- Added Runtimes (Credit: [Syrusaki](https://github.com/Syrusaki) for NET)
+- Fixed Powerplan (Credit: [Ancel](https://github.com/ancel1x) for Powerplan)
 - Changed Windows Activation
 - Structured
