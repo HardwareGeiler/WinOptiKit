@@ -11,3 +11,8 @@
 - Fixed Powerplan (Credit: [Ancel](https://github.com/ancel1x) for Powerplan)
 - Changed Windows Activation
 - Structured
+
+**V1.3:**
+- Improved Runtime
+- Some rewritten and improved files
+- updated xperf
