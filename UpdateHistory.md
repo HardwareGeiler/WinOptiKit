@@ -16,3 +16,8 @@
 - Improved Runtime
 - Some rewritten and improved files
 - updated xperf
+
+**V1.4:**
+- Important Picture Fixes
+- Added Powerplan Guide
+- cleared unnecessary Files
