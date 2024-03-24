@@ -21,3 +21,6 @@
 - Important Picture Fixes
 - Added Powerplan Guide
 - cleared unnecessary Files
+
+**V1.5:**
+- Fixed Powerplan link and bugs
