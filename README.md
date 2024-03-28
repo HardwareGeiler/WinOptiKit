@@ -1,4 +1,4 @@
-# Windows Optimization Toolkit
+# WinOptiKit
 
 ## Features
 
@@ -10,9 +10,9 @@
 
 ## Usage
 
-0. **Information:** Read [UpdateHistory](https://github.com/HardwareGeiler/Windows-Optimization-Toolkit/blob/main/UpdateHistory.md) for a detailed Changelog.
+0. **Information:** Read [UpdateHistory](https://github.com/HardwareGeiler/WinOptiKit/blob/main/UpdateHistory.md) for a detailed Changelog.
 
-1. **Download:** Download the newest [Release](https://github.com/HardwareGeiler/Windows-Optimization-Toolkit/releases/latest/download/Post11new.zip) to your PC, place it in the C: drive of the freshly installed or already installed Windows, and then extract                   the folder.
+1. **Download:** Download the newest [Release](https://github.com/HardwareGeiler/WinOptiKit/releases/latest/download/Post11new.zip) to your PC, place it in the C: drive of the freshly installed or already installed Windows, and then extract                                     the folder.
 
 2. **Usage:** Follow the provided instructions for each file to tweak settings and apply optimizations.
 
@@ -32,4 +32,4 @@ Special thanks to those who have generously shared their expertise and resources
 
 ## License
 
-This project is open-source and distributed under the [MIT License](https://github.com/HardwareGeiler/postinstall/blob/main/LICENSE).
+This project is open-source and distributed under the [MIT License](https://github.com/HardwareGeiler/WinOptiKit/blob/main/LICENSE).
