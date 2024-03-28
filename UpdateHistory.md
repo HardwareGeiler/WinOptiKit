@@ -24,3 +24,9 @@
 
 **V1.5:**
 - Fixed Powerplan link and bugs
+
+**V2:**
+- Rename to WinOptiKit
+- Added Autoruns Guide
+- Some Filestructuring
+- Softcoded Link to Minsudo now @Disablescheduledtasks.ps1
