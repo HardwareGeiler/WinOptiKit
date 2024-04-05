@@ -12,7 +12,7 @@
 
 0. **Information:** Read [UpdateHistory](https://github.com/HardwareGeiler/WinOptiKit/blob/main/UpdateHistory.md) for a detailed Changelog.
 
-1. **Download:** Download the newest [Release](https://github.com/HardwareGeiler/WinOptiKit/releases/latest/download/Post11new.zip) to your PC, place it in the C: drive of the freshly installed or already installed Windows, and then extract                                     the folder.
+1. **Download:** Download the newest [Release](https://github.com/HardwareGeiler/WinOptiKit/releases/latest/download/WinOptiKit.zip) to your PC, place it in the C: drive of the freshly installed or already installed Windows, and then extract                                     the folder.
 
 2. **Usage:** Follow the provided instructions for each file to tweak settings and apply optimizations.
 
