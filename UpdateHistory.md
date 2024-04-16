@@ -30,3 +30,7 @@
 - Added Autoruns Guide
 - Some Filestructuring
 - Softcoded Link to Minsudo now @Disablescheduledtasks.ps1
+
+**V2.1:**
+-Improved and fixed Install.bat
+-Fixed typing
