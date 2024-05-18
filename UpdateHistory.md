@@ -34,3 +34,9 @@
 **V2.1:**
 - Improved and fixed Install.bat
 - Fixed typing
+
+**V2.2:**
+- Fixed bugs
+- Compressed files into one
+- Updated guides
+- Fixed typing
