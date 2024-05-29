@@ -40,3 +40,7 @@
 - Compressed files into one
 - Updated guides
 - Fixed typing
+
+**V2.3:**
+- Restructured Post install
+- cleaned files
