@@ -44,3 +44,8 @@
 **V2.3:**
 - Restructured Post install
 - cleaned files
+
+**V2.4:**
+- added Guides Section in Optional
+- updated and improved Runtimes
+- added Nsudo Root Installer, for running files with Trusted Installer in Context Menu
