@@ -49,3 +49,7 @@
 - added Guides Section in Optional
 - updated and improved Runtimes
 - added Nsudo Root Installer, for running files with Trusted Installer in Context Menu
+
+**V2.5:**
+- minor bugs
+- big update for Runtimes Installer, check [here](https://github.com/HardwareGeiler/Runtimes/releases/tag/V1.4) 
