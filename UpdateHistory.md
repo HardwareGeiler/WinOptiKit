@@ -52,4 +52,9 @@
 
 **V2.5:**
 - minor bugs
-- big update for Runtimes Installer, check [here](https://github.com/HardwareGeiler/Runtimes/releases/tag/V1.4) 
+- big update for Runtimes Installer, check [here](https://github.com/HardwareGeiler/Runtimes/releases/tag/V1.4)
+
+**V2.6:**
+- fixed writing
+- added bcdedits
+- added OOSU (Credit:[Ancel](https://github.com/ancel1x))
