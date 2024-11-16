@@ -58,3 +58,9 @@
 - fixed writing
 - added bcdedits
 - added OOSU (Credit:[Ancel](https://github.com/ancel1x))
+
+**V2.7:**
+- bug fixes
+- added more Software
+- optimised files for speed
+- improved registry files
