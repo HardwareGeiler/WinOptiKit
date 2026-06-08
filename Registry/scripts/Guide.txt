@@ -1,0 +1,5 @@
+1. Run windowsconfigbloat.bat as admin.
+2. Open nsudo as admin with trusted installer and full privileges, then drag disable-process-mitigations.bat in and run it.
+   - When done, it should say "mask modified" and exit.
+3. Run the .ps1 files (powershell icon) by right-clicking and selecting "Run with PowerShell."
+   - If it doesn't open, run first.bat (located in the first folder of the post-install).

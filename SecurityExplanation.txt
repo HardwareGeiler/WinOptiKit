@@ -1,0 +1,7 @@
+  Note:
+
+- All batch files used here are open source. You can check them by right clicking and editing them.
+- Some programs are not open source, and I will provide an alternative link on how to do it yourself.
+- NSudo and Minsudo may be flagged as a virus, but they are both open source. You can verify this at the following GitHub repositories:
+  - https://github.com/M2TeamArchived/NSudo
+  - https://github.com/M2Team/NanaRun

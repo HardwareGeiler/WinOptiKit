@@ -1,0 +1,4 @@
+1. Right-click on "network_tweaker.ps1" and select "Run with PowerShell."
+2. If the script does not run, open an elevated PowerShell window (admin PowerShell) and paste the following command:
+
+   Set-ExecutionPolicy Unrestricted

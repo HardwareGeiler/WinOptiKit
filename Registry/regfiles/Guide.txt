@@ -1,0 +1,6 @@
+1. Right-click on NSudo and select "Run as administrator."
+2. In the NSudo window, make sure to select the "TrustedInstaller" option and check the box for "Full privileges"..
+3. Left-click on the Batch file and drag it into the open NSudo window.
+4. If the path to the Batch file appears in the NSudo window, click on "Run."
+5. Select the Options you want and enter the corresponding Number.
+6. Done.

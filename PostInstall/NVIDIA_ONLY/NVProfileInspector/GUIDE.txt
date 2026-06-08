@@ -1,0 +1,2 @@
+1. Run Importconfig.bat as admin, it should download and import the profile.
+2. If it doesn't, open nvidiaprofileinspector and import the profile manually.

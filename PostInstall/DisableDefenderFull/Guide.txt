@@ -1,0 +1,5 @@
+0. Disable Windows Defender in Settings, e.g. Realtime Protection and Temper Protection.
+1. Extract with 7zip, password: sordum.
+2. When extracted, open nsudo as admin and enable full privileges.
+3. Drag the exe into nsudo and click run.
+4. Choose to disable Defender or leave it enabled.

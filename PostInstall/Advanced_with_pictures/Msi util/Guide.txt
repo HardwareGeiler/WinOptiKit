@@ -1,0 +1,3 @@
+1.  Run MSI_Utility_V3.exe as an administrator.
+2.  Open the picture next to it. Note that your interface may vary, but remember to check the box for all items labeled MSI or MSIx, excluding High Definition Audio. 
+3.  Set all priorities to "undefined." Finally, apply the changes, and you're done.

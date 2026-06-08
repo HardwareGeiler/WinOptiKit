@@ -1,0 +1,5 @@
+1. Run CTT.ps1 with a right-click and select "Run with PowerShell". Ensure you have already run RunFirst.bat.
+2. Once opened, click on the settings wheel in the top right corner.
+3. Click "Import" and select the file config.json.
+4. Navigate to the "Tweaks" section and click "Run".
+5. Apply the settings on the right side according to the provided picture.

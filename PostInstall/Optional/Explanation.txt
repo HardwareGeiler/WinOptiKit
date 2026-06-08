@@ -1,0 +1,2 @@
+I would advice to install 7zip, Firefox and Openshell.
+Xperf is a better way to measure Latency than LatencyMon, just open results.txt in C: and look for things which cause a lot of DPC or ISR.

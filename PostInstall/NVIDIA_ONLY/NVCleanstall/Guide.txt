@@ -1,0 +1,8 @@
+1. Run NvCleanstall.
+2. Follow Steps 1-3; in Step 2, consider ticking Physx too.
+   - Installs only the Graphic driver and Control panel.
+3. Click the top option when prompted to install.
+4. In the Nvidia Installer, follow the instructions without making any changes.
+   - DO NOT close NvCleanstall.
+5. After the installation is complete, close NvCleanstall and restart.
+6. Done. Your driver is now installed.

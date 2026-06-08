@@ -1,0 +1,4 @@
+1. Run display driver uninstaller.exe as admin.
+2. Close the popup and ignore that you're not in safe mode.
+3. Select your driver you want to uninstall on the right side. Press "Clean and Restart" if you selected it.
+4. Download your driver if you haven't already and install it using the tools in AMD_Only or NVIDIA_Only.

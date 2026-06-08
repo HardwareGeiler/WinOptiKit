@@ -1,0 +1,3 @@
+1. Run NSudo as Admin and drag Autoruns.exe in. Ensure you tick full privileges and select Trusted Installer.
+2. Watch this video. https://www.youtube.com/watch?v=cZi7iI-ZdXo&t=71s (Shoutout to Ancel1x for this amazing Video, make sure to give him a Like.)
+3. Exercise caution and think carefully as problems may arise from incorrect usage.
